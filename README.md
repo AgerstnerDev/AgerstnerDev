@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AgerstnerDev
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Java Springboot and furthering my knowledge of node
+- 🌱 I’m currently improving my React.JS knowledge and building apps utilizing Firebase
+- - Linkendin: https://www.linkedin.com/in/andrew-gerstner/
 
 <!---
 AgerstnerDev/AgerstnerDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
