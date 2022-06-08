@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgerstnerDev
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently improving my React.JS knowledge and building apps utilizing Firebase
+- 🌱 I’m currently improving my .NET skills
 - - Linkendin: https://www.linkedin.com/in/andrew-gerstner/
 
 <!---
